@@ -1,0 +1,1664 @@
+
+<!doctype html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" href="https://farmaciaesglesia.com/" hreflang="es" />
+<link rel="alternate" href="https://farmaciaesglesia.com/ca/inici/" hreflang="ca" />
+<!-- This site is optimized with the Yoast SEO plugin v27.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
+<title>Inicio - Farmàcia de l&#039;Església</title>
+<link rel="canonical" href="https://farmaciaesglesia.com/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:locale:alternate" content="ca_ES" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Inicio - Farmàcia de l&#039;Església" />
+<meta property="og:description" content="HORARIO 365 DÍASAbrimos todos los días del año de 8:00 a 22:00ENCARGA Y CONSULTA LO QUE NECESITES¡Escríbenos por WhatsApp!Encargos y consultas Servicios Farmacéuticos Algunos de nuestros servicios más destacados En farmacia l&#8217;Església hemos desarrollado una serie de servicios que ponemos a disposición de nuestros clientes con el espíritu de contribuir a mejorar la salud y [&hellip;]" />
+<meta property="og:url" content="https://farmaciaesglesia.com/" />
+<meta property="og:site_name" content="Farmàcia de l&#039;Església" />
+<meta property="article:publisher" content="https://www.facebook.com/FarmaciaLlinars" />
+<meta property="article:modified_time" content="2026-01-13T13:49:05+00:00" />
+<meta property="og:image" content="https://farmaciaesglesia.com/wp-content/uploads/2023/02/asesoramiento-nutricional-1.png" />
+<meta property="og:image:width" content="500" />
+<meta property="og:image:height" content="500" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/farmaciaesglesia.com\/","url":"https:\/\/farmaciaesglesia.com\/","name":"Inicio - Farmàcia de l&#039;Església","isPartOf":{"@id":"https:\/\/farmaciaesglesia.com\/#website"},"about":{"@id":"https:\/\/farmaciaesglesia.com\/#organization"},"primaryImageOfPage":{"@id":"https:\/\/farmaciaesglesia.com\/#primaryimage"},"image":{"@id":"https:\/\/farmaciaesglesia.com\/#primaryimage"},"thumbnailUrl":"https:\/\/farmaciaesglesia.com\/wp-content\/uploads\/2023\/02\/asesoramiento-nutricional-1.png","datePublished":"2021-01-18T15:39:39+00:00","dateModified":"2026-01-13T13:49:05+00:00","breadcrumb":{"@id":"https:\/\/farmaciaesglesia.com\/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https:\/\/farmaciaesglesia.com\/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https:\/\/farmaciaesglesia.com\/#primaryimage","url":"https:\/\/farmaciaesglesia.com\/wp-content\/uploads\/2023\/02\/asesoramiento-nutricional-1.png","contentUrl":"https:\/\/farmaciaesglesia.com\/wp-content\/uploads\/2023\/02\/asesoramiento-nutricional-1.png","width":500,"height":500},{"@type":"BreadcrumbList","@id":"https:\/\/farmaciaesglesia.com\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada"}]},{"@type":"WebSite","@id":"https:\/\/farmaciaesglesia.com\/#website","url":"https:\/\/farmaciaesglesia.com\/","name":"Farmàcia de l'Església","description":"GEMA Valenzuela","publisher":{"@id":"https:\/\/farmaciaesglesia.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/farmaciaesglesia.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"https:\/\/farmaciaesglesia.com\/#organization","name":"Farmàcia de l'Esglesia","url":"https:\/\/farmaciaesglesia.com\/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https:\/\/farmaciaesglesia.com\/#\/schema\/logo\/image\/","url":"https:\/\/farmaciaesglesia.com\/wp-content\/uploads\/2021\/01\/logo450-2.png","contentUrl":"https:\/\/farmaciaesglesia.com\/wp-content\/uploads\/2021\/01\/logo450-2.png","width":450,"height":282,"caption":"Farmàcia de l'Esglesia"},"image":{"@id":"https:\/\/farmaciaesglesia.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/FarmaciaLlinars","https:\/\/www.instagram.com\/accounts\/login\/"]}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel="alternate" type="application/rss+xml" title="Farmàcia de l&#039;Església &raquo; Feed" href="https://farmaciaesglesia.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Farmàcia de l&#039;Església &raquo; Feed de los comentarios" href="https://farmaciaesglesia.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://farmaciaesglesia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffarmaciaesglesia.com%2F&#038;lang=es" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://farmaciaesglesia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffarmaciaesglesia.com%2F&#038;format=xml&#038;lang=es" />
+<style>
+.lazyload,
+.lazyloading {
+max-width: 100%;
+}
+</style>
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<!-- <link rel='stylesheet' id='cookie-law-info-css' href='https://farmaciaesglesia.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.5.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://farmaciaesglesia.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.5.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='hello-elementor-css' href='https://farmaciaesglesia.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://farmaciaesglesia.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://farmaciaesglesia.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-frontend-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-image-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-icon-box-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='e-animation-grow-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-social-icons-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='e-apple-webkit-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-nav-menu-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=4.1.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='e-sticky-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.1.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-icon-list-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-form-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=4.1.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='e-animation-fadeIn-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='e-popup-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.1.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-icons-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.50.0' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//farmaciaesglesia.com/wp-content/cache/wpfc-minified/20g2ijjr/3twif.css" media="all"/>
+<link rel='stylesheet' id='elementor-post-5-css' href='https://farmaciaesglesia.com/wp-content/uploads/elementor/css/post-5.css?ver=1790092865' media='all' />
+<!-- <link rel='stylesheet' id='cpel-language-switcher-css' href='https://farmaciaesglesia.com/wp-content/plugins/connect-polylang-elementor/assets/css/language-switcher.min.css?ver=2.5.5' media='all' /> -->
+<!-- <link rel='stylesheet' id='e-animation-fadeInUp-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='swiper-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' /> -->
+<!-- <link rel='stylesheet' id='e-swiper-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-slides-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/css/widget-slides.min.css?ver=4.1.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-heading-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-call-to-action-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css?ver=4.1.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='e-transitions-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css?ver=4.1.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-spacer-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.1.4' media='all' /> -->
+<!-- <link rel='stylesheet' id='widget-posts-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css?ver=4.1.1' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//farmaciaesglesia.com/wp-content/cache/wpfc-minified/klrmma8q/3twif.css" media="all"/>
+<link rel='stylesheet' id='elementor-post-16-css' href='https://farmaciaesglesia.com/wp-content/uploads/elementor/css/post-16.css?ver=1790093016' media='all' />
+<link rel='stylesheet' id='elementor-post-34-css' href='https://farmaciaesglesia.com/wp-content/uploads/elementor/css/post-34.css?ver=1790092865' media='all' />
+<link rel='stylesheet' id='elementor-post-144-css' href='https://farmaciaesglesia.com/wp-content/uploads/elementor/css/post-144.css?ver=1790092865' media='all' />
+<link rel='stylesheet' id='elementor-post-386-css' href='https://farmaciaesglesia.com/wp-content/uploads/elementor/css/post-386.css?ver=1790092865' media='all' />
+<!-- <link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://farmaciaesglesia.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751016279' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://farmaciaesglesia.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1751016291' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-gf-local-montserrat-css' href='https://farmaciaesglesia.com/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1751016315' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-gf-local-rubik-css' href='https://farmaciaesglesia.com/wp-content/uploads/elementor/google-fonts/css/rubik.css?ver=1751016326' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' /> -->
+<!-- <link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//farmaciaesglesia.com/wp-content/cache/wpfc-minified/7wnyuhbg/3twif.css" media="all"/>
+<script src='//farmaciaesglesia.com/wp-content/cache/wpfc-minified/m9oxsazt/3twcb.js' type="text/javascript"></script>
+<!-- <script id="jquery-core-js" src="https://farmaciaesglesia.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script> -->
+<!-- <script id="jquery-migrate-js" src="https://farmaciaesglesia.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script> -->
+<script id="cookie-law-info-js-extra">
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#a3dc64","button_1_button_hover":"#82b050","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#3566bb","button_3_button_hover":"#2a5296","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#333333","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https://farmaciaesglesia.com/wp-admin/admin-ajax.php"};
+//# sourceURL=cookie-law-info-js-extra
+</script>
+<script src='//farmaciaesglesia.com/wp-content/cache/wpfc-minified/1ftez8it/3twcb.js' type="text/javascript"></script>
+<!-- <script id="cookie-law-info-js" src="https://farmaciaesglesia.com/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.5.1"></script> -->
+<link rel="https://api.w.org/" href="https://farmaciaesglesia.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://farmaciaesglesia.com/wp-json/wp/v2/pages/16" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://farmaciaesglesia.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.6" />
+<link rel='shortlink' href='https://farmaciaesglesia.com/' />
+<!-- GA Google Analytics @ https://m0n.co/ga -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9GWXQVRQ0B"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-9GWXQVRQ0B');
+</script>
+<script>
+document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+</script>
+<style>
+.no-js img.lazyload {
+display: none;
+}
+figure.wp-block-image img.lazyloading {
+min-width: 150px;
+}
+.lazyload,
+.lazyloading {
+--smush-placeholder-width: 100px;
+--smush-placeholder-bg-max-width: 120px;
+--smush-placeholder-aspect-ratio: 1/1;
+width: var(--smush-image-width, var(--smush-placeholder-width)) !important;
+aspect-ratio: var(--smush-image-aspect-ratio, var(--smush-placeholder-aspect-ratio)) !important;
+}
+.lazyload, .lazyloading {
+opacity: 0;
+}
+.lazyloaded {
+opacity: 1;
+transition: opacity 400ms;
+transition-delay: 0ms;
+}
+</style>
+<meta name="generator" content="Elementor 4.1.4; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Pharmacy",
+"name": "Farmàcia de l'Església - Gema Valenzuela",
+"url": "https://farmaciaesglesia.com/",
+"image": "https://farmaciaesglesia.com/[LOGO-O-FOTO].jpg",
+"telephone": "[+34 9XX XXX XXX]",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "[CALLE Y NÚMERO]",
+"addressLocality": "Llinars del Vallès",
+"addressRegion": "Barcelona",
+"postalCode": "08450",
+"addressCountry": "ES"
+},
+"geo": {
+"@type": "GeoCoordinates",
+"latitude": "[LATITUD]",
+"longitude": "[LONGITUD]"
+},
+"openingHoursSpecification": [{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+"opens": "08:00",
+"closes": "22:00"
+}],
+"areaServed": [
+{"@type": "City", "name": "Llinars del Vallès"},
+{"@type": "City", "name": "Cardedeu"},
+{"@type": "City", "name": "Sant Antoni de Vilamajor"},
+{"@type": "City", "name": "Sant Pere de Vilamajor"},
+{"@type": "City", "name": "Vilalba Sasserra"},
+{"@type": "City", "name": "La Roca del Vallès"},
+{"@type": "City", "name": "Sant Celoni"},
+{"@type": "AdministrativeArea", "name": "Vallès Oriental"}
+]
+}
+</script>
+<style>
+.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+background-image: none !important;
+}
+@media screen and (max-height: 1024px) {
+.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+background-image: none !important;
+}
+}
+@media screen and (max-height: 640px) {
+.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+background-image: none !important;
+}
+}
+</style>
+<link rel="icon" href="https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-favicon-1-270x270.png" />
+</head>
+<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-16 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-16">
+<a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
+<header data-elementor-type="header" data-elementor-id="34" class="elementor elementor-34 elementor-location-header" data-elementor-post-type="elementor_library">
+<header class="elementor-section elementor-top-section elementor-element elementor-element-7eb21ef1 elementor-section-content-middle elementor-section-height-min-height elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="7eb21ef1" data-element_type="section" data-e-type="section" id="header_m" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5b8e847" data-id="5b8e847" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-2be222c9 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="2be222c9" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
+<div class="elementor-widget-container">
+<a href="https://farmaciaesglesia.com">
+<img width="450" height="282" data-src="https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-logo450.png" class="attachment-full size-full wp-image-58 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-logo450.png 450w, https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-logo450-300x188.png 300w" data-sizes="(max-width: 450px) 100vw, 450px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 450px; --smush-placeholder-aspect-ratio: 450/282;" />				</a>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-492d9b20" data-id="492d9b20" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-240b95bd elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="240b95bd" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-776b772" data-id="776b772" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-5dcb1d1d elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="5dcb1d1d" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<a href="https://api.whatsapp.com/send?phone=34646652189" class="elementor-icon" tabindex="-1" aria-label="WhatsApp">
+<i aria-hidden="true" class="fab fa-whatsapp"></i>				</a>
+</div>
+<div class="elementor-icon-box-content">
+<h3 class="elementor-icon-box-title">
+<a href="https://api.whatsapp.com/send?phone=34646652189" >
+WhatsApp						</a>
+</h3>
+<p class="elementor-icon-box-description">
++34 646 65 21 89					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-70512ba" data-id="70512ba" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-11a5e63 elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="11a5e63" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<a href="tel:34938410303%20" class="elementor-icon" tabindex="-1" aria-label="Llámanos">
+<i aria-hidden="true" class="fas fa-phone-alt"></i>				</a>
+</div>
+<div class="elementor-icon-box-content">
+<h3 class="elementor-icon-box-title">
+<a href="tel:34938410303%20" >
+Llámanos						</a>
+</h3>
+<p class="elementor-icon-box-description">
++34 938 41 03 03 					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-27613739" data-id="27613739" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-69a9cb01 elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="69a9cb01" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<a href="https://g.page/FarmaciaLlinars?share" target="_blank" class="elementor-icon" tabindex="-1" aria-label="C/ Església 2, 08450">
+<i aria-hidden="true" class="fas fa-map-marker-alt"></i>				</a>
+</div>
+<div class="elementor-icon-box-content">
+<h3 class="elementor-icon-box-title">
+<a href="https://g.page/FarmaciaLlinars?share" target="_blank" >
+C/ Església 2, 08450						</a>
+</h3>
+<p class="elementor-icon-box-description">
+Llinars del Vallès, Barcelona					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-e50d548" data-id="e50d548" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-695791b2 e-grid-align-right elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="695791b2" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-grow elementor-repeater-item-320e991" href="https://www.facebook.com/FarmaciaLlinars" target="_blank">
+<span class="elementor-screen-only">Facebook-f</span>
+<i aria-hidden="true" class="fab fa-facebook-f"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-grow elementor-repeater-item-1491259" href="https://www.instagram.com/farmacia.esglesia/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</header>
+<nav class="elementor-section elementor-top-section elementor-element elementor-element-26d6f32c elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="26d6f32c" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-97eebb9" data-id="97eebb9" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-209cc99c elementor-nav-menu__align-justify elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-widget__width-auto elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="209cc99c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav aria-label="Menú" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-sweep-down">
+<ul id="menu-1-209cc99c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://farmaciaesglesia.com/quienes-somos/" class="elementor-item">Quiénes somos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-376"><a href="https://farmaciaesglesia.com/servicios-farmaceuticos/" class="elementor-item">Servicios farmacéuticos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-560"><a href="/servicios-farmaceuticos/#asesoramiento-nutricional" class="elementor-sub-item elementor-item-anchor">Asesoramiento nutricional</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561"><a href="/servicios-farmaceuticos/#deshabituacion-tabaquica​" class="elementor-sub-item elementor-item-anchor">Deshabituación tabáquica</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562"><a href="/servicios-farmaceuticos/#analisis-facial-y-capilar​" class="elementor-sub-item elementor-item-anchor">Análisis facial y capilar​</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-563"><a href="/servicios-farmaceuticos/#deteccion-de-diabetes-y-seguimiento" class="elementor-sub-item elementor-item-anchor">Detección de diabetes y seguimiento</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-564"><a href="/servicios-farmaceuticos/#evaluacion-del-riesgo-cardiovascular​" class="elementor-sub-item elementor-item-anchor">Evaluación del Riesgo Cardiovascular​</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565"><a href="/servicios-farmaceuticos/#determinacion-del-grupo-sanguineo" class="elementor-sub-item elementor-item-anchor">Determinación del  grupo sanguíneo</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-566"><a href="/servicios-farmaceuticos/#prueba-del-VIH​" class="elementor-sub-item elementor-item-anchor">Prueba del VIH</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-567"><a href="/servicios-farmaceuticos/#sistema-de-dosificacion-personalizado" class="elementor-sub-item elementor-item-anchor">Sistema de dosificación personalizado</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-568"><a href="/servicios-farmaceuticos/#formulacion-magistral%20​" class="elementor-sub-item elementor-item-anchor">Formulación magistral ​</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="https://farmaciaesglesia.com/tarjeta-cliente/" class="elementor-item">Tarjeta cliente</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://farmaciaesglesia.com/encargos/" class="elementor-item">Encargos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490"><a href="https://farmaciaesglesia.com/consejos-farmaceuticos/" class="elementor-item">Consejos farmacéuticos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="https://farmaciaesglesia.com/contactar/" class="elementor-item">Contactar</a></li>
+</ul>			</nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menú" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>		</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+<ul id="menu-2-209cc99c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://farmaciaesglesia.com/quienes-somos/" class="elementor-item" tabindex="-1">Quiénes somos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-376"><a href="https://farmaciaesglesia.com/servicios-farmaceuticos/" class="elementor-item" tabindex="-1">Servicios farmacéuticos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-560"><a href="/servicios-farmaceuticos/#asesoramiento-nutricional" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Asesoramiento nutricional</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561"><a href="/servicios-farmaceuticos/#deshabituacion-tabaquica​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Deshabituación tabáquica</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562"><a href="/servicios-farmaceuticos/#analisis-facial-y-capilar​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Análisis facial y capilar​</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-563"><a href="/servicios-farmaceuticos/#deteccion-de-diabetes-y-seguimiento" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Detección de diabetes y seguimiento</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-564"><a href="/servicios-farmaceuticos/#evaluacion-del-riesgo-cardiovascular​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Evaluación del Riesgo Cardiovascular​</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565"><a href="/servicios-farmaceuticos/#determinacion-del-grupo-sanguineo" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Determinación del  grupo sanguíneo</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-566"><a href="/servicios-farmaceuticos/#prueba-del-VIH​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Prueba del VIH</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-567"><a href="/servicios-farmaceuticos/#sistema-de-dosificacion-personalizado" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Sistema de dosificación personalizado</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-568"><a href="/servicios-farmaceuticos/#formulacion-magistral%20​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Formulación magistral ​</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="https://farmaciaesglesia.com/tarjeta-cliente/" class="elementor-item" tabindex="-1">Tarjeta cliente</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://farmaciaesglesia.com/encargos/" class="elementor-item" tabindex="-1">Encargos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490"><a href="https://farmaciaesglesia.com/consejos-farmaceuticos/" class="elementor-item" tabindex="-1">Consejos farmacéuticos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="https://farmaciaesglesia.com/contactar/" class="elementor-item" tabindex="-1">Contactar</a></li>
+</ul>			</nav>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d30997 cpel-switcher--align-center elementor-widget__width-auto cpel-switcher--layout-horizontal elementor-widget elementor-widget-polylang-language-switcher" data-id="1d30997" data-element_type="widget" data-e-type="widget" data-widget_type="polylang-language-switcher.default">
+<div class="elementor-widget-container">
+<nav class="cpel-switcher__nav"><ul class="cpel-switcher__list"><li class="cpel-switcher__lang cpel-switcher__lang--active"><a lang="es-ES" hreflang="es-ES" href="https://farmaciaesglesia.com/"><span class="cpel-switcher__code">ES</span></a></li><li class="cpel-switcher__lang"><a lang="ca" hreflang="ca" href="https://farmaciaesglesia.com/ca/inici/"><span class="cpel-switcher__code">CA</span></a></li></ul></nav>				</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<header class="elementor-section elementor-top-section elementor-element elementor-element-af8a707 elementor-section-content-middle elementor-section-height-min-height elementor-hidden-desktop elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="af8a707" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7840772" data-id="7840772" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b2f132c elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="b2f132c" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
+<div class="elementor-widget-container">
+<a href="https://farmaciaesglesia.com">
+<img width="450" height="282" data-src="https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-logo450.png" class="attachment-full size-full wp-image-58 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-logo450.png 450w, https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-logo450-300x188.png 300w" data-sizes="(max-width: 450px) 100vw, 450px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 450px; --smush-placeholder-aspect-ratio: 450/282;" />				</a>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9b1a720" data-id="9b1a720" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-742d06b e-grid-align-right elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="742d06b" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-phone-alt elementor-animation-grow elementor-repeater-item-0834c70" href="tel:34938410303%20" target="_blank">
+<span class="elementor-screen-only">Phone-alt</span>
+<i aria-hidden="true" class="fas fa-phone-alt"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-map-marker-alt elementor-animation-grow elementor-repeater-item-39829df" href="https://g.page/FarmaciaLlinars?share" target="_blank">
+<span class="elementor-screen-only">Map-marker-alt</span>
+<i aria-hidden="true" class="fas fa-map-marker-alt"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-grow elementor-repeater-item-320e991" href="https://www.facebook.com/FarmaciaLlinars" target="_blank">
+<span class="elementor-screen-only">Facebook-f</span>
+<i aria-hidden="true" class="fab fa-facebook-f"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-grow elementor-repeater-item-1491259" href="https://www.instagram.com/farmacia.esglesia/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-animation-grow elementor-repeater-item-20a744a" href="https://api.whatsapp.com/send?phone=34646652189" target="_blank">
+<span class="elementor-screen-only">Whatsapp</span>
+<i aria-hidden="true" class="fab fa-whatsapp"></i>					</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f7bcbcc" data-id="f7bcbcc" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-ecd32a0 cpel-switcher--align-left elementor-widget__width-auto cpel-switcher--layout-horizontal elementor-widget elementor-widget-polylang-language-switcher" data-id="ecd32a0" data-element_type="widget" data-e-type="widget" data-widget_type="polylang-language-switcher.default">
+<div class="elementor-widget-container">
+<nav class="cpel-switcher__nav"><ul class="cpel-switcher__list"><li class="cpel-switcher__lang cpel-switcher__lang--active"><a lang="es-ES" hreflang="es-ES" href="https://farmaciaesglesia.com/"><span class="cpel-switcher__code">ES</span></a></li><li class="cpel-switcher__lang"><a lang="ca" hreflang="ca" href="https://farmaciaesglesia.com/ca/inici/"><span class="cpel-switcher__code">CA</span></a></li></ul></nav>				</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<nav class="elementor-section elementor-top-section elementor-element elementor-element-770086c elementor-hidden-desktop elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="770086c" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5343ebc" data-id="5343ebc" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0489ec4 elementor-nav-menu__align-justify elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="0489ec4" data-element_type="widget" data-e-type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav aria-label="Menú" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-sweep-down">
+<ul id="menu-1-0489ec4" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://farmaciaesglesia.com/quienes-somos/" class="elementor-item">Quiénes somos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-376"><a href="https://farmaciaesglesia.com/servicios-farmaceuticos/" class="elementor-item">Servicios farmacéuticos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-560"><a href="/servicios-farmaceuticos/#asesoramiento-nutricional" class="elementor-sub-item elementor-item-anchor">Asesoramiento nutricional</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561"><a href="/servicios-farmaceuticos/#deshabituacion-tabaquica​" class="elementor-sub-item elementor-item-anchor">Deshabituación tabáquica</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562"><a href="/servicios-farmaceuticos/#analisis-facial-y-capilar​" class="elementor-sub-item elementor-item-anchor">Análisis facial y capilar​</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-563"><a href="/servicios-farmaceuticos/#deteccion-de-diabetes-y-seguimiento" class="elementor-sub-item elementor-item-anchor">Detección de diabetes y seguimiento</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-564"><a href="/servicios-farmaceuticos/#evaluacion-del-riesgo-cardiovascular​" class="elementor-sub-item elementor-item-anchor">Evaluación del Riesgo Cardiovascular​</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565"><a href="/servicios-farmaceuticos/#determinacion-del-grupo-sanguineo" class="elementor-sub-item elementor-item-anchor">Determinación del  grupo sanguíneo</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-566"><a href="/servicios-farmaceuticos/#prueba-del-VIH​" class="elementor-sub-item elementor-item-anchor">Prueba del VIH</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-567"><a href="/servicios-farmaceuticos/#sistema-de-dosificacion-personalizado" class="elementor-sub-item elementor-item-anchor">Sistema de dosificación personalizado</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-568"><a href="/servicios-farmaceuticos/#formulacion-magistral%20​" class="elementor-sub-item elementor-item-anchor">Formulación magistral ​</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="https://farmaciaesglesia.com/tarjeta-cliente/" class="elementor-item">Tarjeta cliente</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://farmaciaesglesia.com/encargos/" class="elementor-item">Encargos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490"><a href="https://farmaciaesglesia.com/consejos-farmaceuticos/" class="elementor-item">Consejos farmacéuticos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="https://farmaciaesglesia.com/contactar/" class="elementor-item">Contactar</a></li>
+</ul>			</nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menú" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>		</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+<ul id="menu-2-0489ec4" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://farmaciaesglesia.com/quienes-somos/" class="elementor-item" tabindex="-1">Quiénes somos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-376"><a href="https://farmaciaesglesia.com/servicios-farmaceuticos/" class="elementor-item" tabindex="-1">Servicios farmacéuticos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-560"><a href="/servicios-farmaceuticos/#asesoramiento-nutricional" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Asesoramiento nutricional</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561"><a href="/servicios-farmaceuticos/#deshabituacion-tabaquica​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Deshabituación tabáquica</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562"><a href="/servicios-farmaceuticos/#analisis-facial-y-capilar​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Análisis facial y capilar​</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-563"><a href="/servicios-farmaceuticos/#deteccion-de-diabetes-y-seguimiento" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Detección de diabetes y seguimiento</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-564"><a href="/servicios-farmaceuticos/#evaluacion-del-riesgo-cardiovascular​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Evaluación del Riesgo Cardiovascular​</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565"><a href="/servicios-farmaceuticos/#determinacion-del-grupo-sanguineo" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Determinación del  grupo sanguíneo</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-566"><a href="/servicios-farmaceuticos/#prueba-del-VIH​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Prueba del VIH</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-567"><a href="/servicios-farmaceuticos/#sistema-de-dosificacion-personalizado" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Sistema de dosificación personalizado</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-568"><a href="/servicios-farmaceuticos/#formulacion-magistral%20​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Formulación magistral ​</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="https://farmaciaesglesia.com/tarjeta-cliente/" class="elementor-item" tabindex="-1">Tarjeta cliente</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://farmaciaesglesia.com/encargos/" class="elementor-item" tabindex="-1">Encargos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490"><a href="https://farmaciaesglesia.com/consejos-farmaceuticos/" class="elementor-item" tabindex="-1">Consejos farmacéuticos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="https://farmaciaesglesia.com/contactar/" class="elementor-item" tabindex="-1">Contactar</a></li>
+</ul>			</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4898040 elementor-section-content-middle elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-height-default" data-id="4898040" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8a0ca0e" data-id="8a0ca0e" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-65cb90b elementor-icon-list--layout-inline elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="65cb90b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items elementor-inline-items">
+<li class="elementor-icon-list-item elementor-inline-item">
+<a href="tel:34938410303%20">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+<span class="elementor-icon-list-text"></span>
+</a>
+</li>
+<li class="elementor-icon-list-item elementor-inline-item">
+<a href="https://g.page/FarmaciaLlinars?share" target="_blank">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+<span class="elementor-icon-list-text"></span>
+</a>
+</li>
+<li class="elementor-icon-list-item elementor-inline-item">
+<a href="https://www.facebook.com/FarmaciaLlinars">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fab fa-facebook-f"></i>						</span>
+<span class="elementor-icon-list-text"></span>
+</a>
+</li>
+<li class="elementor-icon-list-item elementor-inline-item">
+<a href="https://www.instagram.com/farmacia.esglesia/">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fab fa-instagram"></i>						</span>
+<span class="elementor-icon-list-text"></span>
+</a>
+</li>
+<li class="elementor-icon-list-item elementor-inline-item">
+<a href="https://api.whatsapp.com/send?phone=34646652189" target="_blank">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fab fa-whatsapp"></i>						</span>
+<span class="elementor-icon-list-text"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1731142" data-id="1731142" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-da7aa60 cpel-switcher--align-right elementor-widget__width-auto cpel-switcher--layout-horizontal elementor-widget elementor-widget-polylang-language-switcher" data-id="da7aa60" data-element_type="widget" data-e-type="widget" data-widget_type="polylang-language-switcher.default">
+<div class="elementor-widget-container">
+<nav class="cpel-switcher__nav"><ul class="cpel-switcher__list"><li class="cpel-switcher__lang"><a lang="ca" hreflang="ca" href="https://farmaciaesglesia.com/ca/inici/"><span class="cpel-switcher__code">CA</span></a></li></ul></nav>				</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<header class="elementor-section elementor-top-section elementor-element elementor-element-a04cba8 elementor-section-content-middle elementor-section-height-min-height elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-items-middle" data-id="a04cba8" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bdbfa8c" data-id="bdbfa8c" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-c2ff9fb elementor-widget elementor-widget-image" data-id="c2ff9fb" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://www.farmacialesglesia.com/">
+<img width="187" height="150" data-src="https://farmaciaesglesia.com/wp-content/uploads/2020/10/logo150old.png" class="attachment-full size-full wp-image-37 lazyload" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 187px; --smush-placeholder-aspect-ratio: 187/150;" />								</a>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-be6b005" data-id="be6b005" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-605cc20 elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="605cc20" data-element_type="widget" data-e-type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;dropdown&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menú" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>		</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+<ul id="menu-2-605cc20" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://farmaciaesglesia.com/quienes-somos/" class="elementor-item" tabindex="-1">Quiénes somos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-376"><a href="https://farmaciaesglesia.com/servicios-farmaceuticos/" class="elementor-item" tabindex="-1">Servicios farmacéuticos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-560"><a href="/servicios-farmaceuticos/#asesoramiento-nutricional" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Asesoramiento nutricional</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561"><a href="/servicios-farmaceuticos/#deshabituacion-tabaquica​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Deshabituación tabáquica</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562"><a href="/servicios-farmaceuticos/#analisis-facial-y-capilar​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Análisis facial y capilar​</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-563"><a href="/servicios-farmaceuticos/#deteccion-de-diabetes-y-seguimiento" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Detección de diabetes y seguimiento</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-564"><a href="/servicios-farmaceuticos/#evaluacion-del-riesgo-cardiovascular​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Evaluación del Riesgo Cardiovascular​</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565"><a href="/servicios-farmaceuticos/#determinacion-del-grupo-sanguineo" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Determinación del  grupo sanguíneo</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-566"><a href="/servicios-farmaceuticos/#prueba-del-VIH​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Prueba del VIH</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-567"><a href="/servicios-farmaceuticos/#sistema-de-dosificacion-personalizado" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Sistema de dosificación personalizado</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-568"><a href="/servicios-farmaceuticos/#formulacion-magistral%20​" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Formulación magistral ​</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="https://farmaciaesglesia.com/tarjeta-cliente/" class="elementor-item" tabindex="-1">Tarjeta cliente</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://farmaciaesglesia.com/encargos/" class="elementor-item" tabindex="-1">Encargos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490"><a href="https://farmaciaesglesia.com/consejos-farmaceuticos/" class="elementor-item" tabindex="-1">Consejos farmacéuticos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="https://farmaciaesglesia.com/contactar/" class="elementor-item" tabindex="-1">Contactar</a></li>
+</ul>			</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+</header>
+<div data-elementor-type="wp-page" data-elementor-id="16" class="elementor elementor-16" data-elementor-post-type="page">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-5a516f04 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5a516f04" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-625bd39d" data-id="625bd39d" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-7af346d6 elementor--h-position-right elementor--v-position-bottom elementor-widget elementor-widget-slides" data-id="7af346d6" data-element_type="widget" data-e-type="widget" data-settings="{&quot;navigation&quot;:&quot;none&quot;,&quot;autoplay_speed&quot;:3500,&quot;transition_speed&quot;:2000,&quot;transition&quot;:&quot;fade&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;}" data-widget_type="slides.default">
+<div class="elementor-widget-container">
+<div class="elementor-swiper">
+<div class="elementor-slides-wrapper elementor-main-swiper swiper" role="region" aria-roledescription="carousel" aria-label="Diapositivas" dir="ltr" data-animation="fadeInUp">
+<div class="swiper-wrapper elementor-slides">
+<div class="elementor-repeater-item-b6d4821 swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Accede a nuestra farmacia online (5)"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">HORARIO 365 DÍAS</div><div class="elementor-slide-description">Abrimos todos los días del año de 8:00 a 22:00</div></div></div></div><div class="elementor-repeater-item-e68f849 swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Accede a nuestra farmacia online (2)"></div><a class="swiper-slide-inner" href="https://farmaciaesglesia.com/encargos/" target="_blank"><div class="swiper-slide-contents"><div class="elementor-slide-heading">ENCARGA Y CONSULTA LO QUE NECESITES</div><div class="elementor-slide-description">¡Escríbenos por WhatsApp!</div><div  class="elementor-button elementor-slide-button elementor-size-xl">Encargos y consultas</div></div></a></div>				</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-d90b687 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d90b687" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-32bc901" data-id="32bc901" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-6c04830 elementor-widget elementor-widget-heading" data-id="6c04830" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">Servicios Farmacéuticos</h6>				</div>
+</div>
+<div class="elementor-element elementor-element-1af6448 elementor-widget elementor-widget-heading" data-id="1af6448" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Algunos de nuestros servicios más destacados</h2>				</div>
+</div>
+<div class="elementor-element elementor-element-77317c0 elementor-widget elementor-widget-text-editor" data-id="77317c0" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>En farmacia l&#8217;Església hemos desarrollado una serie de servicios que ponemos a disposición de nuestros clientes con el espíritu de contribuir a mejorar la salud y prevenir enfermedades. </p>								</div>
+</div>
+<div class="elementor-element elementor-element-2f33448 elementor-align-left elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-button" data-id="2f33448" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="/servicios-farmaceuticos/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Todos los servicios</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-53eaa1a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="53eaa1a" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0bde9d2" data-id="0bde9d2" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-d894f35 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="d894f35" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-custom">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e872f11" data-id="e872f11" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-dc3a0d7 elementor-cta--layout-image-left elementor-cta--valign-middle elementor-cta--mobile-layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="dc3a0d7" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<a class="elementor-cta" href="https://farmaciaesglesia.com/servicios-farmaceuticos/" target="_blank">
+<div class="elementor-cta__content">
+<div class="elementor-content-item elementor-cta__content-item elementor-cta__image">
+<img fetchpriority="high" decoding="async" width="500" height="500" src="https://farmaciaesglesia.com/wp-content/uploads/2023/02/asesoramiento-nutricional-1.png" class="attachment-full size-full wp-image-2009" alt="" srcset="https://farmaciaesglesia.com/wp-content/uploads/2023/02/asesoramiento-nutricional-1.png 500w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/asesoramiento-nutricional-1-300x300.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/asesoramiento-nutricional-1-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" />					</div>
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+ASESORAMIENTO NUTRICIONAL					</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="elementor-element elementor-element-cf69e74 elementor-cta--layout-image-left elementor-cta--valign-middle elementor-cta--mobile-layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="cf69e74" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<a class="elementor-cta" href="https://farmaciaesglesia.com/servicios-farmaceuticos/" target="_blank">
+<div class="elementor-cta__content">
+<div class="elementor-content-item elementor-cta__content-item elementor-cta__image">
+<img decoding="async" width="500" height="500" data-src="https://farmaciaesglesia.com/wp-content/uploads/2023/02/ANÁLISIS-CAPILAR.png" class="attachment-full size-full wp-image-2011 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2023/02/ANÁLISIS-CAPILAR.png 500w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/ANÁLISIS-CAPILAR-300x300.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/ANÁLISIS-CAPILAR-150x150.png 150w" data-sizes="(max-width: 500px) 100vw, 500px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/500;" />					</div>
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+ANÁLISIS CAPILAR Y FACIAL					</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="elementor-element elementor-element-9ebd7e2 elementor-cta--layout-image-left elementor-cta--valign-middle elementor-cta--mobile-layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="9ebd7e2" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<a class="elementor-cta" href="https://farmaciaesglesia.com/servicios-farmaceuticos/" target="_blank">
+<div class="elementor-cta__content">
+<div class="elementor-content-item elementor-cta__content-item elementor-cta__image">
+<img decoding="async" width="500" height="500" data-src="https://farmaciaesglesia.com/wp-content/uploads/2023/02/EVALUACIÓN-DEL-RIESGO-CARDIOVASCULAR.png" class="attachment-full size-full wp-image-2013 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2023/02/EVALUACIÓN-DEL-RIESGO-CARDIOVASCULAR.png 500w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/EVALUACIÓN-DEL-RIESGO-CARDIOVASCULAR-300x300.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/EVALUACIÓN-DEL-RIESGO-CARDIOVASCULAR-150x150.png 150w" data-sizes="(max-width: 500px) 100vw, 500px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/500;" />					</div>
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+EVALUACIÓN DEL RIESGO CARDIOVASCULAR					</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="elementor-element elementor-element-58416c9 elementor-cta--layout-image-left elementor-cta--valign-middle elementor-cta--mobile-layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="58416c9" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<a class="elementor-cta" href="https://farmaciaesglesia.com/servicios-farmaceuticos/" target="_blank">
+<div class="elementor-cta__content">
+<div class="elementor-content-item elementor-cta__content-item elementor-cta__image">
+<img decoding="async" width="500" height="500" data-src="https://farmaciaesglesia.com/wp-content/uploads/2023/02/PRUEBA-BIH.png" class="attachment-full size-full wp-image-2015 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2023/02/PRUEBA-BIH.png 500w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/PRUEBA-BIH-300x300.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/PRUEBA-BIH-150x150.png 150w" data-sizes="(max-width: 500px) 100vw, 500px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/500;" />					</div>
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+PRUEBA DEL VIH					</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="elementor-element elementor-element-06d0479 elementor-cta--layout-image-left elementor-cta--valign-middle elementor-cta--mobile-layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="06d0479" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<a class="elementor-cta" href="https://farmaciaesglesia.com/servicios-farmaceuticos/" target="_blank">
+<div class="elementor-cta__content">
+<div class="elementor-content-item elementor-cta__content-item elementor-cta__image">
+<img decoding="async" width="500" height="500" data-src="https://farmaciaesglesia.com/wp-content/uploads/2023/02/FORMULACIÓN-MAGISTRAL.png" class="attachment-full size-full wp-image-2017 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2023/02/FORMULACIÓN-MAGISTRAL.png 500w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/FORMULACIÓN-MAGISTRAL-300x300.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/FORMULACIÓN-MAGISTRAL-150x150.png 150w" data-sizes="(max-width: 500px) 100vw, 500px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/500;" />					</div>
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+FORMULACIÓN MAGISTRAL					</h2>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1825483" data-id="1825483" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-4272bad elementor-cta--layout-image-left elementor-cta--valign-middle elementor-cta--mobile-layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="4272bad" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<a class="elementor-cta" href="https://farmaciaesglesia.com/servicios-farmaceuticos/" target="_blank">
+<div class="elementor-cta__content">
+<div class="elementor-content-item elementor-cta__content-item elementor-cta__image">
+<img decoding="async" width="500" height="500" data-src="https://farmaciaesglesia.com/wp-content/uploads/2023/02/deshabituación-tabáquica.png" class="attachment-full size-full wp-image-2010 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2023/02/deshabituación-tabáquica.png 500w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/deshabituación-tabáquica-300x300.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/deshabituación-tabáquica-150x150.png 150w" data-sizes="(max-width: 500px) 100vw, 500px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/500;" />					</div>
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+DESHABITUACIÓN TABÁQUICA					</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="elementor-element elementor-element-77f8505 elementor-cta--layout-image-left elementor-cta--valign-middle elementor-cta--mobile-layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="77f8505" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<a class="elementor-cta" href="https://farmaciaesglesia.com/servicios-farmaceuticos/" target="_blank">
+<div class="elementor-cta__content">
+<div class="elementor-content-item elementor-cta__content-item elementor-cta__image">
+<img decoding="async" width="500" height="500" data-src="https://farmaciaesglesia.com/wp-content/uploads/2023/02/DETECCIÓN-DIABETES-Y-SEGUIMIENTO.png" class="attachment-full size-full wp-image-2012 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2023/02/DETECCIÓN-DIABETES-Y-SEGUIMIENTO.png 500w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/DETECCIÓN-DIABETES-Y-SEGUIMIENTO-300x300.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/DETECCIÓN-DIABETES-Y-SEGUIMIENTO-150x150.png 150w" data-sizes="(max-width: 500px) 100vw, 500px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/500;" />					</div>
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+DETECCIÓN DE DIABETES Y SEGUIMIENTO					</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="elementor-element elementor-element-362d495 elementor-cta--layout-image-left elementor-cta--valign-middle elementor-cta--mobile-layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="362d495" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<a class="elementor-cta" href="https://farmaciaesglesia.com/servicios-farmaceuticos/" target="_blank">
+<div class="elementor-cta__content">
+<div class="elementor-content-item elementor-cta__content-item elementor-cta__image">
+<img decoding="async" width="500" height="500" data-src="https://farmaciaesglesia.com/wp-content/uploads/2023/02/DETERMINACIÓN-DEL-GRUPO-SANGUÍNEO.png" class="attachment-full size-full wp-image-2014 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2023/02/DETERMINACIÓN-DEL-GRUPO-SANGUÍNEO.png 500w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/DETERMINACIÓN-DEL-GRUPO-SANGUÍNEO-300x300.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/DETERMINACIÓN-DEL-GRUPO-SANGUÍNEO-150x150.png 150w" data-sizes="(max-width: 500px) 100vw, 500px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/500;" />					</div>
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+DETERMINACIÓN DEL GRUPO SANGUÍNEO					</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="elementor-element elementor-element-6d019fa elementor-cta--layout-image-left elementor-cta--valign-middle elementor-cta--mobile-layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action" data-id="6d019fa" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
+<div class="elementor-widget-container">
+<a class="elementor-cta" href="https://farmaciaesglesia.com/servicios-farmaceuticos/" target="_blank">
+<div class="elementor-cta__content">
+<div class="elementor-content-item elementor-cta__content-item elementor-cta__image">
+<img decoding="async" width="500" height="500" data-src="https://farmaciaesglesia.com/wp-content/uploads/2023/02/PRUEBSISTEMA-DE-DOSIFICACIÓN-PERSONALIZADO-SPD.png" class="attachment-full size-full wp-image-2016 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2023/02/PRUEBSISTEMA-DE-DOSIFICACIÓN-PERSONALIZADO-SPD.png 500w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/PRUEBSISTEMA-DE-DOSIFICACIÓN-PERSONALIZADO-SPD-300x300.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2023/02/PRUEBSISTEMA-DE-DOSIFICACIÓN-PERSONALIZADO-SPD-150x150.png 150w" data-sizes="(max-width: 500px) 100vw, 500px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/500;" />					</div>
+<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+SISTEMA DE DOSIFICACIÓN PERSONALIZADO (SPD)					</h2>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="elementor-element elementor-element-61e2002 elementor-widget elementor-widget-spacer" data-id="61e2002" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+<div class="elementor-widget-container">
+<div class="elementor-spacer">
+<div class="elementor-spacer-inner"></div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-39e6588 elementor-align-center elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="39e6588" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="/servicios-farmaceuticos/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Todos los servicios</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-9bdb7ec elementor-widget elementor-widget-spacer" data-id="9bdb7ec" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+<div class="elementor-widget-container">
+<div class="elementor-spacer">
+<div class="elementor-spacer-inner"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1a49833 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a49833" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ac44193" data-id="ac44193" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-ea74b32 elementor-widget elementor-widget-spacer" data-id="ea74b32" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+<div class="elementor-widget-container">
+<div class="elementor-spacer">
+<div class="elementor-spacer-inner"></div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-51c40ea elementor-widget elementor-widget-heading" data-id="51c40ea" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">¿Te gustaría trabajar con nosotros?</h2>				</div>
+</div>
+<div class="elementor-element elementor-element-240dcb8c elementor-widget elementor-widget-text-editor" data-id="240dcb8c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Se valorarán: </p><ul><li>Estudios en naturopatía, dietética, fitoterapia, dermofarmacia</li><li>Grado en farmacia y estudios complementarios</li></ul>								</div>
+</div>
+<div class="elementor-element elementor-element-152d1b1 elementor-align-left elementor-hidden-phone elementor-widget elementor-widget-button" data-id="152d1b1" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="mailto:gemaval@hotmail.com%20">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">¡ENVÍANOS TU CV!</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-06973a5 elementor-button-info elementor-mobile-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="06973a5" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="mailto:gemaval@hotmail.com%20">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">ENVÍANOS TU CV</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3dd40ea elementor-widget elementor-widget-spacer" data-id="3dd40ea" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+<div class="elementor-widget-container">
+<div class="elementor-spacer">
+<div class="elementor-spacer-inner"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-8187127 elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8187127" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-960d58e" data-id="960d58e" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-102307b7 elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="102307b7" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span  class="elementor-icon elementor-animation-grow">
+<i aria-hidden="true" class="fas fa-check-circle"></i>				</span>
+</div>
+<div class="elementor-icon-box-content">
+<h3 class="elementor-icon-box-title">
+<span  >
+REALIZA TU PEDIDO						</span>
+</h3>
+<p class="elementor-icon-box-description">
+Puedes realizar el pedido por teléfono, email o a través de nuestra web.					</p>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-ab0e21e elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="ab0e21e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span  class="elementor-icon elementor-animation-grow">
+<i aria-hidden="true" class="fas fa-check-circle"></i>				</span>
+</div>
+<div class="elementor-icon-box-content">
+<h3 class="elementor-icon-box-title">
+<span  >
+LO PREPARAMOS						</span>
+</h3>
+<p class="elementor-icon-box-description">
+Recibirás una aviso cuando el pedido esté listo para su recogida.					</p>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-15bd77e elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="15bd77e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span  class="elementor-icon elementor-animation-grow">
+<i aria-hidden="true" class="fas fa-check-circle"></i>				</span>
+</div>
+<div class="elementor-icon-box-content">
+<h3 class="elementor-icon-box-title">
+<span  >
+PASA A RECOGERLO						</span>
+</h3>
+<p class="elementor-icon-box-description">
+Pasa a recogerlo cuando quieras. Paga cómodamente en la farmacia.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4b42e13" data-id="4b42e13" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-a121536 elementor-widget elementor-widget-heading" data-id="a121536" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">Pedido exprÉS</h6>				</div>
+</div>
+<div class="elementor-element elementor-element-a4bbd45 elementor-widget elementor-widget-heading" data-id="a4bbd45" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Encargos Online</h2>				</div>
+</div>
+<div class="elementor-element elementor-element-3c246bb elementor-widget elementor-widget-text-editor" data-id="3c246bb" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Te ofrecemos el servicio de pedido exprés. Este servicio pretende facilitar, en la medida de lo posible, la compra de tus productos y ahorrarte tiempo a la hora de realizarlos y de recogerlos.</p><p> </p>								</div>
+</div>
+<div class="elementor-element elementor-element-a319664 elementor-align-left elementor-widget elementor-widget-button" data-id="a319664" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="/encargos/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Realiza tu encargo</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-5d2d3ca0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d2d3ca0" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c389d08" data-id="c389d08" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-7aa652b elementor-widget elementor-widget-heading" data-id="7aa652b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">¿Aún no la tienes?
+</h6>				</div>
+</div>
+<div class="elementor-element elementor-element-7ed191d elementor-widget elementor-widget-heading" data-id="7ed191d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">Las ventajas de nuestra tarjeta</h4>				</div>
+</div>
+<div class="elementor-element elementor-element-907a205 elementor-widget elementor-widget-text-editor" data-id="907a205" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Descubre las ventajas especiales que puedes conseguir con nuestra tarjeta cliente. <br />Solicítala en tu próxima compra en la farmacia y empieza a disfrutar de sus ventajas como por ejemplo:</p>								</div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-5d7a1e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d7a1e2" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-eae94fa" data-id="eae94fa" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-383c295 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="383c295" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span  class="elementor-icon">
+<i aria-hidden="true" class="fas fa-dollar-sign"></i>				</span>
+</div>
+<div class="elementor-icon-box-content">
+<p class="elementor-icon-box-description">
+Promociones y descuentos					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-41c2c50" data-id="41c2c50" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-155af49 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="155af49" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span  class="elementor-icon">
+<i aria-hidden="true" class="far fa-thumbs-up"></i>				</span>
+</div>
+<div class="elementor-icon-box-content">
+<p class="elementor-icon-box-description">
+Análisis gratuito de piel y cabello					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-cf8d830" data-id="cf8d830" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-cc33a72 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="cc33a72" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span  class="elementor-icon">
+<i aria-hidden="true" class="far fa-calendar-alt"></i>				</span>
+</div>
+<div class="elementor-icon-box-content">
+<p class="elementor-icon-box-description">
+Talleres informativos sobre salud					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-e4841ca" data-id="e4841ca" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-6bf62c8 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="6bf62c8" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-icon">
+<span  class="elementor-icon">
+<i aria-hidden="true" class="far fa-star"></i>				</span>
+</div>
+<div class="elementor-icon-box-content">
+<p class="elementor-icon-box-description">
+Descuento directo del 5%					</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="elementor-element elementor-element-7c949e3 elementor-align-center elementor-widget elementor-widget-button" data-id="7c949e3" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="/tarjeta-cliente/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Me interesa</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-6475fc72 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6475fc72" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-29eac2d2" data-id="29eac2d2" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-516a5db elementor-widget elementor-widget-heading" data-id="516a5db" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">Blog</h6>				</div>
+</div>
+<div class="elementor-element elementor-element-455ad5a7 elementor-widget elementor-widget-heading" data-id="455ad5a7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Nuestras noticias más destacadas</h2>				</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5ef22f43" data-id="5ef22f43" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-9670aa8 elementor-align-left elementor-hidden-phone elementor-widget elementor-widget-button" data-id="9670aa8" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="/consejos-farmaceuticos/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Ver más noticias</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-55a5cf97 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="55a5cf97" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-71c439a2" data-id="71c439a2" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-56063f06 elementor-grid-2 elementor-posts--thumbnail-right elementor-posts--align-left elementor-grid-tablet-1 elementor-grid-mobile-1 elementor-widget elementor-widget-posts" data-id="56063f06" data-element_type="widget" data-e-type="widget" data-settings="{&quot;classic_columns&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;60&quot;,&quot;sizes&quot;:[]},&quot;classic_columns_tablet&quot;:&quot;1&quot;,&quot;classic_columns_mobile&quot;:&quot;1&quot;,&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+<div class="elementor-widget-container">
+<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid" role="list">
+<article class="elementor-post elementor-grid-item post-5349 post type-post status-publish format-standard has-post-thumbnail hentry category-consejos-farmaceuticos" role="listitem">
+<a class="elementor-post__thumbnail__link" href="https://farmaciaesglesia.com/que-es-la-formulacion-magistral/" tabindex="-1" >
+<div class="elementor-post__thumbnail"><img decoding="async" width="1376" height="768" data-src="https://farmaciaesglesia.com/wp-content/uploads/2026/09/1788242237509-Farmacia-personalizada-qu-es.png" class="attachment-full size-full wp-image-5348 lazyload" alt="Farmacia personalizada: la guía de la formulación magistral" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2026/09/1788242237509-Farmacia-personalizada-qu-es.png 1376w, https://farmaciaesglesia.com/wp-content/uploads/2026/09/1788242237509-Farmacia-personalizada-qu-es-300x167.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2026/09/1788242237509-Farmacia-personalizada-qu-es-1024x572.png 1024w, https://farmaciaesglesia.com/wp-content/uploads/2026/09/1788242237509-Farmacia-personalizada-qu-es-768x429.png 768w" data-sizes="(max-width: 1376px) 100vw, 1376px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 1376px; --smush-placeholder-aspect-ratio: 1376/768;" /></div>
+</a>
+<div class="elementor-post__text">
+<h3 class="elementor-post__title">
+<a href="https://farmaciaesglesia.com/que-es-la-formulacion-magistral/" >
+Farmacia personalizada: la guía de la formulación magistral			</a>
+</h3>
+<div class="elementor-post__meta-data">
+<span class="elementor-post-date">
+septiembre 1, 2026		</span>
+</div>
+<div class="elementor-post__excerpt">
+<p>¿Un tratamiento no te funciona como debería? La formulación magistral adapta medicamentos a tus necesidades exactas. Te explicamos cómo y por qué es una</p>
+</div>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item post-4578 post type-post status-publish format-standard has-post-thumbnail hentry category-consejos-farmaceuticos" role="listitem">
+<a class="elementor-post__thumbnail__link" href="https://farmaciaesglesia.com/caida-pelo-verano-vacaciones-causas/" tabindex="-1" >
+<div class="elementor-post__thumbnail"><img decoding="async" width="1376" height="768" data-src="https://farmaciaesglesia.com/wp-content/uploads/2026/08/1785542528497-Por-qu-se-te-cae-m-s-el-pelo-.png" class="attachment-full size-full wp-image-4577 lazyload" alt="Caída de pelo al volver de vacaciones: por qué ocurre y qué hacer" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2026/08/1785542528497-Por-qu-se-te-cae-m-s-el-pelo-.png 1376w, https://farmaciaesglesia.com/wp-content/uploads/2026/08/1785542528497-Por-qu-se-te-cae-m-s-el-pelo--300x167.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2026/08/1785542528497-Por-qu-se-te-cae-m-s-el-pelo--1024x572.png 1024w, https://farmaciaesglesia.com/wp-content/uploads/2026/08/1785542528497-Por-qu-se-te-cae-m-s-el-pelo--768x429.png 768w" data-sizes="(max-width: 1376px) 100vw, 1376px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 1376px; --smush-placeholder-aspect-ratio: 1376/768;" /></div>
+</a>
+<div class="elementor-post__text">
+<h3 class="elementor-post__title">
+<a href="https://farmaciaesglesia.com/caida-pelo-verano-vacaciones-causas/" >
+Caída de pelo al volver de vacaciones: por qué ocurre y qué hacer			</a>
+</h3>
+<div class="elementor-post__meta-data">
+<span class="elementor-post-date">
+agosto 1, 2026		</span>
+</div>
+<div class="elementor-post__excerpt">
+<p>¿Notas que se te cae más el pelo al volver de vacaciones? No te preocupes, es un fenómeno común. Te contamos las causas y qué puedes hacer para recuperar la</p>
+</div>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item post-3829 post type-post status-publish format-standard has-post-thumbnail hentry category-consejos-farmaceuticos" role="listitem">
+<a class="elementor-post__thumbnail__link" href="https://farmaciaesglesia.com/estres-por-calor-evitarlo-dia-a-dia/" tabindex="-1" >
+<div class="elementor-post__thumbnail"><img decoding="async" width="1376" height="768" data-src="https://farmaciaesglesia.com/wp-content/uploads/2026/07/1782864056715-Estr-s-por-calor-qu-hacer-pa.png" class="attachment-full size-full wp-image-3828 lazyload" alt="Evitar el estrés por calor: claves para tu bienestar diario" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2026/07/1782864056715-Estr-s-por-calor-qu-hacer-pa.png 1376w, https://farmaciaesglesia.com/wp-content/uploads/2026/07/1782864056715-Estr-s-por-calor-qu-hacer-pa-300x167.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2026/07/1782864056715-Estr-s-por-calor-qu-hacer-pa-1024x572.png 1024w, https://farmaciaesglesia.com/wp-content/uploads/2026/07/1782864056715-Estr-s-por-calor-qu-hacer-pa-768x429.png 768w" data-sizes="(max-width: 1376px) 100vw, 1376px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 1376px; --smush-placeholder-aspect-ratio: 1376/768;" /></div>
+</a>
+<div class="elementor-post__text">
+<h3 class="elementor-post__title">
+<a href="https://farmaciaesglesia.com/estres-por-calor-evitarlo-dia-a-dia/" >
+Evitar el estrés por calor: claves para tu bienestar diario			</a>
+</h3>
+<div class="elementor-post__meta-data">
+<span class="elementor-post-date">
+julio 1, 2026		</span>
+</div>
+<div class="elementor-post__excerpt">
+<p>Las altas temperaturas típicas del verano pueden tener un impacto significativo en nuestra salud. Entender cómo el cuerpo reacciona y qué medidas podemos tomar</p>
+</div>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item post-3339 post type-post status-publish format-standard has-post-thumbnail hentry category-consejos-farmaceuticos" role="listitem">
+<a class="elementor-post__thumbnail__link" href="https://farmaciaesglesia.com/deshabituacion-tabaquica-farmacia-novedades/" tabindex="-1" >
+<div class="elementor-post__thumbnail"><img decoding="async" width="1376" height="768" data-src="https://farmaciaesglesia.com/wp-content/uploads/2026/06/1781085440274-Nuevos-enfoques-en-deshabituac.png" class="attachment-full size-full wp-image-3338 lazyload" alt="Nuevos enfoques para dejar de fumar desde tu farmacia" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2026/06/1781085440274-Nuevos-enfoques-en-deshabituac.png 1376w, https://farmaciaesglesia.com/wp-content/uploads/2026/06/1781085440274-Nuevos-enfoques-en-deshabituac-300x167.png 300w, https://farmaciaesglesia.com/wp-content/uploads/2026/06/1781085440274-Nuevos-enfoques-en-deshabituac-1024x572.png 1024w, https://farmaciaesglesia.com/wp-content/uploads/2026/06/1781085440274-Nuevos-enfoques-en-deshabituac-768x429.png 768w" data-sizes="(max-width: 1376px) 100vw, 1376px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 1376px; --smush-placeholder-aspect-ratio: 1376/768;" /></div>
+</a>
+<div class="elementor-post__text">
+<h3 class="elementor-post__title">
+<a href="https://farmaciaesglesia.com/deshabituacion-tabaquica-farmacia-novedades/" >
+Nuevos enfoques para dejar de fumar desde tu farmacia			</a>
+</h3>
+<div class="elementor-post__meta-data">
+<span class="elementor-post-date">
+junio 10, 2026		</span>
+</div>
+<div class="elementor-post__excerpt">
+<p>Dejar de fumar es un desafío que ahora cuenta con herramientas más avanzadas. Las farmacias ofrecen programas personalizados de deshabituación tabáquica,</p>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-cd0c39d elementor-align-left elementor-mobile-align-justify elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="cd0c39d" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="/concejos-farmaceuticos/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Ver más noticias</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-a8b778c elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a8b778c" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-469ff17" data-id="469ff17" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-ebaa779 elementor-button-align-end elementor-tablet-button-align-stretch elementor-mobile-button-align-stretch elementor-widget elementor-widget-form" data-id="ebaa779" data-element_type="widget" data-e-type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+<div class="elementor-widget-container">
+<form class="elementor-form" method="post" name="New Form" aria-label="New Form">
+<input type="hidden" name="post_id" value="16"/>
+<input type="hidden" name="form_id" value="ebaa779"/>
+<input type="hidden" name="referer_title" value="Inicio - Farmàcia de l&#039;Església" />
+<input type="hidden" name="queried_id" value="16"/>
+<div class="elementor-form-fields-wrapper elementor-labels-">
+<div class="elementor-field-type-text">
+<input size="1" type="text" name="form_fields[field_97a6b95]" id="form-field-field_97a6b95" class="elementor-field elementor-size-sm " style="display:none !important;">				</div>
+<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-ls8f5vw elementor-col-100">
+<label for="form-field-ls8f5vw" class="elementor-field-label elementor-screen-only">
+Name							</label>
+<input size="1" type="text" name="form_fields[ls8f5vw]" id="form-field-ls8f5vw" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Nombre">
+</div>
+<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-61jgmeg elementor-col-50">
+<label for="form-field-61jgmeg" class="elementor-field-label elementor-screen-only">
+Email							</label>
+<input size="1" type="email" name="form_fields[61jgmeg]" id="form-field-61jgmeg" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email">
+</div>
+<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-vcfzijy elementor-col-50">
+<label for="form-field-vcfzijy" class="elementor-field-label elementor-screen-only">
+Phone							</label>
+<input size="1" type="text" name="form_fields[vcfzijy]" id="form-field-vcfzijy" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Teléfono">
+</div>
+<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-125shfm elementor-col-100">
+<label for="form-field-125shfm" class="elementor-field-label elementor-screen-only">
+Subject							</label>
+<input size="1" type="text" name="form_fields[125shfm]" id="form-field-125shfm" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Asunto">
+</div>
+<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-uvnsnlz elementor-col-100">
+<label for="form-field-uvnsnlz" class="elementor-field-label elementor-screen-only">
+Message							</label>
+<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[uvnsnlz]" id="form-field-uvnsnlz" rows="3" placeholder="Mensaje"></textarea>				</div>
+<div class="elementor-field-type-text">
+<input size="1" type="text" name="form_fields[field_03fc666]" id="form-field-field_03fc666" class="elementor-field elementor-size-sm " style="display:none !important;">				</div>
+<div class="elementor-field-type-acceptance elementor-field-group elementor-column elementor-field-group-field_415c172 elementor-col-100 elementor-field-required">
+<label for="form-field-field_415c172" class="elementor-field-label elementor-screen-only">
+He leído y acepto la política de privacidad y cookies.							</label>
+<div class="elementor-field-subgroup">
+<span class="elementor-field-option">
+<input type="checkbox" name="form_fields[field_415c172]" id="form-field-field_415c172" class="elementor-field elementor-size-sm  elementor-acceptance-field" required="required">
+<label for="form-field-field_415c172">He leído y acepto la <a href="/politica-de-privacidad-y-cookies/">política de privacidad y cookies</a>.</label>			</span>
+</div>
+</div>
+<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+<button class="elementor-button elementor-size-sm" type="submit">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">ENVIAR</span>
+</span>
+</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3b5ce31" data-id="3b5ce31" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-36cdb49 elementor-widget elementor-widget-heading" data-id="36cdb49" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">¿Hablamos?</h6>				</div>
+</div>
+<div class="elementor-element elementor-element-7e03a6e elementor-widget elementor-widget-heading" data-id="7e03a6e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Contacta con nosotros</h2>				</div>
+</div>
+<div class="elementor-element elementor-element-c32cc71 elementor-widget elementor-widget-text-editor" data-id="c32cc71" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Si deseas contactar con nosotros, utiliza el formulario que encontrarás a continuación. Recuerda que también puedes hacerlo mediante teléfono o acercándote directamente a nuestra farmacia.</p>								</div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-e964fc7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e964fc7" data-element_type="section" data-e-type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-77f9dae" data-id="77f9dae" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-bb347a2 elementor-widget elementor-widget-heading" data-id="bb347a2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<div class="elementor-heading-title elementor-size-default">Sitúanos en el mapa</div>				</div>
+</div>
+<div class="elementor-element elementor-element-8fcc637 elementor-widget elementor-widget-text-editor" data-id="8fcc637" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+Carrer de l&#8217;Església 2, 208450 <br>
+Llinars del Vallès, Barcelona								</div>
+</div>
+<div class="elementor-element elementor-element-62a1163f elementor-widget elementor-widget-heading" data-id="62a1163f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<div class="elementor-heading-title elementor-size-default">Horario</div>				</div>
+</div>
+<div class="elementor-element elementor-element-2cc25727 elementor-widget elementor-widget-text-editor" data-id="2cc25727" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Abrimos todos los días del año de 8 a 22 h. Los domingos y días festivos, ¡también!</p>								</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2438197" data-id="2438197" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-90d16cc elementor-widget elementor-widget-heading" data-id="90d16cc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<div class="elementor-heading-title elementor-size-default">Contacta con nosotros</div>				</div>
+</div>
+<div class="elementor-element elementor-element-8535fb8 elementor-widget elementor-widget-text-editor" data-id="8535fb8" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+Puedes llamar al:<BR>
++34 938 41 03 03								</div>
+</div>
+<div class="elementor-element elementor-element-80a2dae elementor-widget elementor-widget-heading" data-id="80a2dae" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<div class="elementor-heading-title elementor-size-default">Servicio de WhatsApp</div>				</div>
+</div>
+<div class="elementor-element elementor-element-033e027 elementor-widget elementor-widget-text-editor" data-id="033e027" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Añádenos en tus contactos<br />+34 646 65 21 89</p>								</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+</div>
+		<footer data-elementor-type="footer" data-elementor-id="144" class="elementor elementor-144 elementor-location-footer" data-elementor-post-type="elementor_library">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0f2ff9d elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0f2ff9d" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e56a2b6" data-id="e56a2b6" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-6285cd8c elementor-widget elementor-widget-image" data-id="6285cd8c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img width="187" height="150" data-src="https://farmaciaesglesia.com/wp-content/uploads/2020/10/logo150old.png" class="attachment-full size-full wp-image-37 lazyload" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 187px; --smush-placeholder-aspect-ratio: 187/150;" />															</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-dc414d1" data-id="dc414d1" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-766db95d elementor-widget elementor-widget-text-editor" data-id="766db95d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+© 2026 Farmacia l&#8217;Església  &#8211; <a href="/politica-de-privacidad-y-cookies/">Términos de uso y Política de privacidad</a> &#8211; Desarrollado por <a href="https://www.mkpro.es/" target="_blank">MkPro</a>								</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8841ccc" data-id="8841ccc" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-f49110b e-grid-align-right elementor-shape-circle e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="f49110b" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-grow elementor-repeater-item-320e991" href="https://www.facebook.com/FarmaciaLlinars" target="_blank">
+<span class="elementor-screen-only">Facebook-f</span>
+<i aria-hidden="true" class="fab fa-facebook-f"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-grow elementor-repeater-item-1491259" href="https://www.instagram.com/farmacia.esglesia/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-animation-grow elementor-repeater-item-7939db9" href="https://api.whatsapp.com/send?phone=34646652189" target="_blank">
+<span class="elementor-screen-only">Whatsapp</span>
+<i aria-hidden="true" class="fab fa-whatsapp"></i>					</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-59ee4a0 elementor-hidden-desktop elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="59ee4a0" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-284f8d2" data-id="284f8d2" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-53f2484 elementor-widget elementor-widget-image" data-id="53f2484" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img width="187" height="150" data-src="https://farmaciaesglesia.com/wp-content/uploads/2020/10/logo150old.png" class="attachment-full size-full wp-image-37 lazyload" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 187px; --smush-placeholder-aspect-ratio: 187/150;" />															</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-99bf83c" data-id="99bf83c" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-dcf2722 elementor-widget elementor-widget-text-editor" data-id="dcf2722" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+© 2026 Farmacia l&#8217;Església  &#8211; <a href="/politica-de-privacidad-y-cookies/">Términos de uso y Política de privacidad</a> &#8211; Desarrollado por <a href="https://www.mkpro.es/" target="_blank">MkPro</a>								</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2be824d" data-id="2be824d" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-7e7edf1 e-grid-align-right elementor-shape-circle e-grid-align-tablet-center e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="7e7edf1" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-grow elementor-repeater-item-320e991" href="https://www.facebook.com/FarmaciaLlinars" target="_blank">
+<span class="elementor-screen-only">Facebook-f</span>
+<i aria-hidden="true" class="fab fa-facebook-f"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-grow elementor-repeater-item-1491259" href="https://www.instagram.com/farmacia.esglesia/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-animation-grow elementor-repeater-item-7939db9" href="https://api.whatsapp.com/send?phone=34646652189" target="_blank">
+<span class="elementor-screen-only">Whatsapp</span>
+<i aria-hidden="true" class="fab fa-whatsapp"></i>					</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-09b17d2 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="09b17d2" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-61fb669" data-id="61fb669" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-eec838e elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="eec838e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
+<div class="elementor-widget-container">
+<a href="https://farmaciaesglesia.com">
+<img width="450" height="282" data-src="https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-logo450.png" class="attachment-full size-full wp-image-58 lazyload" alt="" data-srcset="https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-logo450.png 450w, https://farmaciaesglesia.com/wp-content/uploads/2020/10/cropped-logo450-300x188.png 300w" data-sizes="(max-width: 450px) 100vw, 450px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 450px; --smush-placeholder-aspect-ratio: 450/282;" />				</a>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-eb020b6" data-id="eb020b6" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-7a90569 e-grid-align-right elementor-shape-circle e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="7a90569" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-grow elementor-repeater-item-320e991" href="https://www.facebook.com/FarmaciaLlinars" target="_blank">
+<span class="elementor-screen-only">Facebook-f</span>
+<i aria-hidden="true" class="fab fa-facebook-f"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-grow elementor-repeater-item-1491259" href="https://www.instagram.com/farmacia.esglesia/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+</span>
+<span class="elementor-grid-item" role="listitem">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-animation-grow elementor-repeater-item-7939db9" href="https://api.whatsapp.com/send?phone=34646652189" target="_blank">
+<span class="elementor-screen-only">Whatsapp</span>
+<i aria-hidden="true" class="fab fa-whatsapp"></i>					</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8614327" data-id="8614327" data-element_type="column" data-e-type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-dcea6d0 elementor-widget elementor-widget-text-editor" data-id="dcea6d0" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+© 2026 Farmacia l&#8217;Església  &#8211; <a href="/politica-de-privacidad-y-cookies/">Términos de uso y Política de privacidad</a> &#8211; Desarrollado por <a href="https://www.mkpro.es/" target="_blank">MkPro</a>								</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">Usamos cookies en nuestro sitio web para brindarle la experiencia más relevante recordando sus preferencias y visitas repetidas. Al hacer clic en "Aceptar", acepta el uso de TODAS las cookies.</div><div class="cli-bar-btn_container"><a role="button" class="cli_settings_button" style="margin:0px 10px 0px 5px">Ajustes</a><a role="button" data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn" style="display:inline-block">ACEPTAR</a></div></div></span></div><div id="cookie-law-info-again" style="display:none" data-nosnippet="true"><span id="cookie_hdr_showagain">Ajustes de Cookies</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+<div class="cli-modal-dialog" role="document">
+<div class="cli-modal-content cli-bar-popup">
+<button type="button" class="cli-modal-close" id="cliModalClose">
+<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+<span class="wt-cli-sr-only">Cerrar</span>
+</button>
+<div class="cli-modal-body">
+<div class="cli-container-fluid cli-tab-container">
+<div class="cli-row">
+<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+<div class="cli-privacy-overview">
+<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
+</div>
+<a class="cli-privacy-readmore" aria-label="Mostrar más" role="button" data-readmore-text="Mostrar más" data-readless-text="Mostrar menos"></a>			</div>
+</div>
+<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+Necessary							</a>
+<div class="wt-cli-necessary-checkbox">
+<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked" />
+<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+</div>
+<span class="cli-necessary-caption">Siempre activado</span>
+</div>
+<div class="cli-tab-content">
+<div class="cli-tab-pane cli-fade" data-id="necessary">
+<div class="wt-cli-cookie-description">
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+</div>
+</div>
+</div>
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+Non-necessary							</a>
+<div class="cli-switch">
+<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox" data-id="checkbox-non-necessary" checked='checked' />
+<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Activado" data-cli-disable="Desactivado"><span class="wt-cli-sr-only">Non-necessary</span></label>
+</div>
+</div>
+<div class="cli-tab-content">
+<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+<div class="wt-cli-cookie-description">
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cli-modal-footer">
+<div class="wt-cli-element cli-container-fluid cli-tab-container">
+<div class="cli-row">
+<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">GUARDAR Y ACEPTAR</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"5d24f1b5824a390225f81f6e5970e298"})});</script>		<div data-elementor-type="popup" data-elementor-id="386" class="elementor elementor-386 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;0.8&quot;,&quot;sizes&quot;:[]},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:[],&quot;timing&quot;:{&quot;devices&quot;:&quot;yes&quot;,&quot;devices_devices&quot;:[&quot;desktop&quot;,&quot;mobile&quot;,&quot;tablet&quot;]}}" data-elementor-post-type="elementor_library">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-5a1aa28 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5a1aa28" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1a989c8" data-id="1a989c8" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-5c341d2 elementor-button-align-end elementor-tablet-button-align-stretch elementor-mobile-button-align-stretch elementor-widget elementor-widget-form" data-id="5c341d2" data-element_type="widget" data-e-type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+<div class="elementor-widget-container">
+<form class="elementor-form" method="post" name="Formulario Servicios" aria-label="Formulario Servicios">
+<input type="hidden" name="post_id" value="386"/>
+<input type="hidden" name="form_id" value="5c341d2"/>
+<input type="hidden" name="referer_title" value="Inicio - Farmàcia de l&#039;Església" />
+<input type="hidden" name="queried_id" value="16"/>
+<div class="elementor-form-fields-wrapper elementor-labels-above">
+<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_3de4d2a elementor-col-50 elementor-field-required">
+<label for="form-field-field_3de4d2a" class="elementor-field-label">
+Nombre							</label>
+<input size="1" type="text" name="form_fields[field_3de4d2a]" id="form-field-field_3de4d2a" class="elementor-field elementor-size-sm  elementor-field-textual" required="required">
+</div>
+<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_af56994 elementor-col-50 elementor-field-required">
+<label for="form-field-field_af56994" class="elementor-field-label">
+Apellidos							</label>
+<input size="1" type="text" name="form_fields[field_af56994]" id="form-field-field_af56994" class="elementor-field elementor-size-sm  elementor-field-textual" required="required">
+</div>
+<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_ace26d2 elementor-col-50 elementor-field-required">
+<label for="form-field-field_ace26d2" class="elementor-field-label">
+Teléfono							</label>
+<input size="1" type="tel" name="form_fields[field_ace26d2]" id="form-field-field_ace26d2" class="elementor-field elementor-size-sm  elementor-field-textual" required="required" pattern="[0-9()#&amp;+*-=.]+" title="Solo se aceptan números y caracteres de teléfono (#,-,*,etc).">
+</div>
+<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
+<label for="form-field-email" class="elementor-field-label">
+Email							</label>
+<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" required="required">
+</div>
+<div class="elementor-field-type-select elementor-field-group elementor-column elementor-field-group-field_dd9b93a elementor-col-100 elementor-field-required">
+<label for="form-field-field_dd9b93a" class="elementor-field-label">
+Seleccione el servicio que le interesa:							</label>
+<div class="elementor-field elementor-select-wrapper remove-before ">
+<div class="select-caret-down-wrapper">
+<i aria-hidden="true" class="eicon-caret-down"></i>			</div>
+<select name="form_fields[field_dd9b93a]" id="form-field-field_dd9b93a" class="elementor-field-textual elementor-size-sm" required="required">
+<option value=""></option>
+<option value="Asesoramiento nutricional">Asesoramiento nutricional</option>
+<option value="Deshabituación tabáquica">Deshabituación tabáquica</option>
+<option value="Análisis facial y capilar">Análisis facial y capilar</option>
+<option value="Detección de diabetes y seguimiento">Detección de diabetes y seguimiento</option>
+<option value="Evaluación del Riesgo Cardiovascular​">Evaluación del Riesgo Cardiovascular​</option>
+<option value="Determinación del grupo sanguíneo">Determinación del grupo sanguíneo</option>
+<option value="Prueba del VIH">Prueba del VIH</option>
+<option value="Sistema de dosificación personalizado (SPD)">Sistema de dosificación personalizado (SPD)</option>
+<option value="Formulación magistral">Formulación magistral</option>
+<option value=""></option>
+</select>
+</div>
+</div>
+<div class="elementor-field-type-text">
+<input size="1" type="text" name="form_fields[field_5f8d854]" id="form-field-field_5f8d854" class="elementor-field elementor-size-sm " style="display:none !important;">				</div>
+<div class="elementor-field-type-select elementor-field-group elementor-column elementor-field-group-field_dd6a324 elementor-col-100 elementor-field-required">
+<label for="form-field-field_dd6a324" class="elementor-field-label">
+Hora mejor para contactar:​ 							</label>
+<div class="elementor-field elementor-select-wrapper remove-before ">
+<div class="select-caret-down-wrapper">
+<i aria-hidden="true" class="eicon-caret-down"></i>			</div>
+<select name="form_fields[field_dd6a324]" id="form-field-field_dd6a324" class="elementor-field-textual elementor-size-sm" required="required">
+<option value=""></option>
+<option value="Mañanas">Mañanas</option>
+<option value="Mediodía">Mediodía</option>
+<option value="Tardes">Tardes</option>
+<option value=""></option>
+</select>
+</div>
+</div>
+<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_f885359 elementor-col-100">
+<input size="1" type="text" name="form_fields[field_f885359]" id="form-field-field_f885359" class="elementor-field elementor-size-sm  elementor-field-textual">
+</div>
+<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+<button class="elementor-button elementor-size-sm" type="submit">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">ENVIAR</span>
+</span>
+</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<script>
+const lazyloadRunObserver = () => {
+const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+entries.forEach( ( entry ) => {
+if ( entry.isIntersecting ) {
+let lazyloadBackground = entry.target;
+if( lazyloadBackground ) {
+lazyloadBackground.classList.add( 'e-lazyloaded' );
+}
+lazyloadBackgroundObserver.unobserve( entry.target );
+}
+});
+}, { rootMargin: '200px 0px 200px 0px' } );
+lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+lazyloadBackgroundObserver.observe( lazyloadBackground );
+} );
+};
+const events = [
+'DOMContentLoaded',
+'elementor/lazyload/observe',
+];
+events.forEach( ( event ) => {
+document.addEventListener( event, lazyloadRunObserver );
+} );
+</script>
+<script id="pll_cookie_script-js-after">
+(function() {
+var expirationDate = new Date();
+expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+document.cookie = "pll_language=es; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+}());
+//# sourceURL=pll_cookie_script-js-after
+</script>
+<script id="elementor-webpack-runtime-js" src="https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4"></script>
+<script id="elementor-frontend-modules-js" src="https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4"></script>
+<script id="jquery-ui-core-js" src="https://farmaciaesglesia.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.1.4","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_panel_promotions":true,"theme_builder_v2":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/farmaciaesglesia.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/farmaciaesglesia.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/farmaciaesglesia.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"fb3578dfec","atomicFormsSendForm":"8db3631121"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":16,"title":"Inicio%20-%20Farm%C3%A0cia%20de%20l%27Esgl%C3%A9sia","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.4"></script>
+<script id="smartmenus-js" src="https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1"></script>
+<script id="e-sticky-js" src="https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.1.1"></script>
+<script id="imagesloaded-js" src="https://farmaciaesglesia.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="swiper-js" src="https://farmaciaesglesia.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5"></script>
+<script id="smush-lazy-load-js-before">
+var smushLazyLoadOptions = {"autoResizingEnabled":false,"autoResizeOptions":{"precision":5,"skipAutoWidth":true}};
+//# sourceURL=smush-lazy-load-js-before
+</script>
+<script id="smush-lazy-load-js" src="https://farmaciaesglesia.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=4.1.2"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.1.1"></script>
+<script id="wp-hooks-js" src="https://farmaciaesglesia.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://farmaciaesglesia.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/farmaciaesglesia.com\/wp-admin\/admin-ajax.php","nonce":"807d7abced","urls":{"assets":"https:\/\/farmaciaesglesia.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/farmaciaesglesia.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/farmaciaesglesia.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script id="elementor-pro-frontend-js" src="https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.1.1"></script>
+<script id="pro-elements-handlers-js" src="https://farmaciaesglesia.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.1.1"></script>
+</body>
+</html><!-- WP Fastest Cache file was created in 1.393 seconds, on September 24, 2026 @ 8:04 pm -->
