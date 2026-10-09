@@ -140,6 +140,55 @@ main {
   max-width: 58ch;
 }
 
+.hero--image {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  width: 100vw; max-width: 100vw; margin-left:
+  calc(-50vw + 50%);
+  box-sizing: border-box;
+  min-height: 65vh;
+  padding: clamp(3rem, 6vw, 5rem);
+  border-radius: 0;
+  background-color: var(--primary-dark);
+  background:
+    linear-gradient(
+      90deg,
+      rgba(12, 36, 28, 0.55) 0%,
+      rgba(12, 36, 28, 0.30) 55%,
+      rgba(12, 36, 28, 0.08) 100%
+    ) center / cover no-repeat,
+    url("../imgs/farmaciaEsglesia.webp") center / cover no-repeat;
+  color: #fff;
+}
+
+.hero--image .hero__content,
+.hero--image .hero__panel {
+  position: relative;
+  z-index: 1;
+}
+
+.hero--image .eyebrow {
+  color: #dff7eb;
+}
+
+.hero--image .lead {
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.hero--image .button--secondary {
+  border-color: #fff;
+  color: #fff;
+}
+
+@media (max-width: 780px) {
+  .hero--image {
+    min-height: 38rem;
+    padding: 2rem 1.25rem;
+    background-position: center;
+  }
+}
+
 .hero__actions {
   display: flex;
   flex-wrap: wrap;
