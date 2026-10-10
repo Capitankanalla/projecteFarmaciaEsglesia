@@ -12,6 +12,14 @@ if (menuToggle && mainNav) {
     menuToggle.setAttribute('aria-expanded', String(isOpen));
   });
 
+  const serviceCards = document.querySelectorAll('.card[data-service]');
+
+  serviceCards.forEach((card) => {
+    card.addEventListener('click', () => {
+      window.location.href = './html/404.html';
+    });
+  });
+
   mainNav.querySelectorAll('a').forEach((link) => {
     link.addEventListener('click', () => {
       mainNav.classList.remove('is-open');
