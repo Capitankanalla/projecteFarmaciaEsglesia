@@ -1,180 +1,189 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Farmàcia de l'Església en Llinars del Vallès: atenció farmacèutica, horari 365 dies, encàrrecs i serveis personalitzats." />
-    <title>Farmàcia de l'Església</title>
-    <link rel="preload" as="image" href="assets/imgs/farmaciaEsglesia.webp" fetchpriority="high" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link rel="stylesheet" href="assets/css/styles.css" />
-    <script defer src="assets/js/main.js"></script>
-  </head>
-  <body>
-    <header class="site-header">
-      <div class="topbar">
-        <div class="topbar__item"><a href="tel:34938410303">📞 +34 938 41 03 03</a></div>
-        <div class="topbar__item"><a href="https://api.whatsapp.com/send?phone=34646652189" target="_blank" rel="noreferrer">💬 WhatsApp</a></div>
-        <div class="topbar__item"><a href="https://g.page/FarmaciaLlinars?share" target="_blank" rel="noreferrer">📍 C/ Església 2, Llinars del Vallès</a></div>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description"
+    content="Farmàcia de l'Església en Llinars del Vallès: atenció farmacèutica, horari 365 dies, encàrrecs i serveis personalitzats." />
+  <title>Farmàcia de l'Església</title>
+  <link rel="preload" as="image" href="assets/imgs/farmaciaEsglesia.webp" fetchpriority="high" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <script defer src="assets/js/main.js"></script>
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="topbar">
+      <div class="topbar__item"><a href="tel:34938410303">📞 +34 938 41 03 03</a></div>
+      <div class="topbar__item"><a href="https://api.whatsapp.com/send?phone=34646652189" target="_blank"
+          rel="noreferrer">💬 WhatsApp</a></div>
+      <div class="topbar__item"><a href="https://g.page/FarmaciaLlinars?share" target="_blank" rel="noreferrer">📍 C/
+          Església 2, Llinars del Vallès</a></div>
+    </div>
+
+    <div class="nav-wrap">
+      <a class="brand" href="#inicio">Farmàcia de l'Església</a>
+      <button class="menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false">☰</button>
+      <nav class="main-nav" id="main-nav" aria-label="Navegación principal">
+        <a href="#quienes-somos">Quiénes somos</a>
+        <a href="#servicios">Servicios farmacéuticos</a>
+        <a href="#tarjeta">Tarjeta cliente</a>
+        <a href="#encargos">Encargos</a>
+        <a href="#contactar">Contactar</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero hero--image" id="inicio">
+      <div class="hero__content">
+        <p class="eyebrow">HORARIO 365 DÍAS</p>
+        <h1>ENCARGA Y CONSULTA LO QUE NECESITES</h1>
+        <p class="lead">
+          Abrimos todos los días del año de 8:00 a 22:00.
+          <br />
+          ¡Escríbenos por WhatsApp!
+        </p>
+
+        <div class="hero__actions">
+          <a class="button button--primary" href="https://api.whatsapp.com/send?phone=34646652189" target="_blank"
+            rel="noreferrer">WhatsApp</a>
+          <a class="button button--secondary" href="tel:34938410303">Llámanos</a>
+        </div>
       </div>
 
-      <div class="nav-wrap">
-        <a class="brand" href="#inicio">Farmàcia de l'Església</a>
-        <button class="menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false">☰</button>
-        <nav class="main-nav" id="main-nav" aria-label="Navegación principal">
-          <a href="#quienes-somos">Quiénes somos</a>
-          <a href="#servicios">Servicios farmacéuticos</a>
-          <a href="#tarjeta">Tarjeta cliente</a>
-          <a href="#encargos">Encargos</a>
-          <a href="#contactar">Contactar</a>
-        </nav>
+      <div class="hero__panel">
+        <div class="panel-card">
+          <span class="badge" id="storeStatus">Abierto</span>
+          <h2>08:00 - 22:00</h2>
+          <ul>
+            <li>Horario 365 días</li>
+            <li>Encargos y consultas</li>
+            <li>Atención personalizada</li>
+          </ul>
+        </div>
       </div>
-    </header>
+    </section>
 
-    <main>
-      <section class="hero hero--image" id="inicio">
-        <div class="hero__content">
-          <p class="eyebrow">HORARIO 365 DÍAS</p>
-          <h1>ENCARGA Y CONSULTA LO QUE NECESITES</h1>
-          <p class="lead">
-            Abrimos todos los días del año de 8:00 a 22:00.
-            <br />
-            ¡Escríbenos por WhatsApp!
+    <section class="section" id="servicios">
+      <div class="section-heading">
+        <p class="eyebrow">Servicios Farmacéuticos</p>
+        <h2>Algunos de nuestros servicios más destacados</h2>
+      </div>
+
+      <div class="cards">
+        <article class="card">
+          <div class="icon">🥗</div>
+          <h3>Asesoramiento nutricional</h3>
+          <p>Servicio de orientación nutricional para mejorar hábitos y bienestar.</p>
+        </article>
+
+        <article class="card">
+          <div class="icon">🚭</div>
+          <h3>Deshabituación tabáquica</h3>
+          <p>Programa de apoyo para dejar de fumar con seguimiento personalizado.</p>
+        </article>
+
+        <article class="card">
+          <div class="icon">✨</div>
+          <h3>Análisis facial y capilar</h3>
+          <p>Valoración y recomendaciones para el cuidado de la piel y el cabello.</p>
+        </article>
+
+        <article class="card">
+          <div class="icon">🩺</div>
+          <h3>Detección de diabetes y seguimiento</h3>
+          <p>Control y acompañamiento para prevenir y monitorizar la diabetes.</p>
+        </article>
+
+        <article class="card">
+          <div class="icon">❤️</div>
+          <h3>Evaluación del Riesgo Cardiovascular</h3>
+          <p>Valoración para prevenir problemas cardiovasculares y mejorar salud.</p>
+        </article>
+
+        <article class="card">
+          <div class="icon">🧪</div>
+          <h3>Prueba del VIH</h3>
+          <p>Atención confidencial con orientación sanitaria adecuada y cercana.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section section--alt" id="quienes-somos">
+      <div class="section-heading">
+        <p class="eyebrow">Quiénes somos</p>
+        <h2>En farmacia l’Església hemos desarrollado una serie de servicios a disposición de
+          nuestros clientes con el espíritu de contribuir a mejorar la salud y prevenir enfermedades. </h2>
+      </div>
+
+      <div class="two-column">
+        <div>
+          <p>
+            En farmacia l’Església trabajamos para ofrecer un servicio cercano, humano y de confianza,
+            con atención personalizada para cada persona y cada necesidad.
           </p>
-
-          <div class="hero__actions">
-            <a class="button button--primary" href="https://api.whatsapp.com/send?phone=34646652189" target="_blank" rel="noreferrer">WhatsApp</a>
-            <a class="button button--secondary" href="tel:34938410303">Llámanos</a>
-          </div>
+          <p>
+            Desde el asesoramiento en salud, la dispensación segura y la atención al cliente,
+            queremos ser un referente de calidad para el barrio y la zona.
+          </p>
         </div>
-
-        <div class="hero__panel">
-          <div class="panel-card">
-            <span class="badge">Abierto</span>
-            <h2>08:00 - 22:00</h2>
-            <ul>
-              <li>Horario 365 días</li>
-              <li>Encargos y consultas</li>
-              <li>Atención personalizada</li>
-            </ul>
-          </div>
+        <div class="feature-box">
+          <ul>
+            <li>Atención farmacéutica cercana</li>
+            <li>Horario ampli y flexible</li>
+            <li>Encargos rápidos</li>
+            <li>Servicio de confianza y proximidad</li>
+          </ul>
         </div>
-      </section>
-
-      <section class="section" id="servicios">
-        <div class="section-heading">
-          <p class="eyebrow">Servicios Farmacéuticos</p>
-          <h2>Algunos de nuestros servicios más destacados</h2>
-        </div>
-
-        <div class="cards">
-          <article class="card">
-            <div class="icon">🥗</div>
-            <h3>Asesoramiento nutricional</h3>
-            <p>Servicio de orientación nutricional para mejorar hábitos y bienestar.</p>
-          </article>
-
-          <article class="card">
-            <div class="icon">🚭</div>
-            <h3>Deshabituación tabáquica</h3>
-            <p>Programa de apoyo para dejar de fumar con seguimiento personalizado.</p>
-          </article>
-
-          <article class="card">
-            <div class="icon">✨</div>
-            <h3>Análisis facial y capilar</h3>
-            <p>Valoración y recomendaciones para el cuidado de la piel y el cabello.</p>
-          </article>
-
-          <article class="card">
-            <div class="icon">🩺</div>
-            <h3>Detección de diabetes y seguimiento</h3>
-            <p>Control y acompañamiento para prevenir y monitorizar la diabetes.</p>
-          </article>
-
-          <article class="card">
-            <div class="icon">❤️</div>
-            <h3>Evaluación del Riesgo Cardiovascular</h3>
-            <p>Valoración para prevenir problemas cardiovasculares y mejorar salud.</p>
-          </article>
-
-          <article class="card">
-            <div class="icon">🧪</div>
-            <h3>Prueba del VIH</h3>
-            <p>Atención confidencial con orientación sanitaria adecuada y cercana.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="section section--alt" id="quienes-somos">
-        <div class="section-heading">
-          <p class="eyebrow">Quiénes somos</p>
-          <h2>En farmacia l’Església hemos desarrollado una serie de servicios</h2>
-        </div>
-
-        <div class="two-column">
-          <div>
-            <p>
-              En farmacia l’Església trabajamos para ofrecer un servicio cercano, humano y de confianza,
-              con atención personalizada para cada persona y cada necesidad.
-            </p>
-            <p>
-              Desde el asesoramiento en salud, la dispensación segura y la atención al cliente,
-              queremos ser un referente de calidad para el barrio y la zona.
-            </p>
-          </div>
-          <div class="feature-box">
-            <ul>
-              <li>Atención farmacéutica cercana</li>
-              <li>Horario ampli y flexible</li>
-              <li>Encargos rápidos</li>
-              <li>Servicio de confianza y proximidad</li>
-            </ul>
-          </div>
-        </div>
-      </section>
-
-      <section class="section" id="tarjeta">
-        <div class="section-heading">
-          <p class="eyebrow">Tarjeta cliente</p>
-          <h2>Descubre las ventajas especiales que puedes conseguir con nuestra tarjeta cliente</h2>
-        </div>
-
-        <div class="benefits">
-          <span>Promociones y descuentos</span>
-          <span>Ofertas exclusivas</span>
-          <span>Atención prioritaria</span>
-          <span>Recomendaciones a medida</span>
-        </div>
-      </section>
-
-      <section class="section section--alt" id="encargos">
-        <div class="section-heading">
-          <p class="eyebrow">Encargos Online</p>
-          <h2>Te ofrecemos el servicio de pedido exprés</h2>
-        </div>
-
-        <div class="enquiry-box">
-          <p>Este servicio pretende facilitar, en la medida de lo posible, la compra de tus productos y ahorrarte tiempo a la hora de realizarlos y de recogerlos.</p>
-          <a class="button button--primary" href="https://api.whatsapp.com/send?phone=34646652189" target="_blank" rel="noreferrer">Realiza tu encargo</a>
-        </div>
-      </section>
-    </main>
-
-    <footer class="site-footer" id="contactar">
-      <div>
-        <h3>Farmàcia de l'Església</h3>
-        <p>C/ Església 2, 08450 Llinars del Vallès, Barcelona</p>
       </div>
-      <div>
-        <p>📞 +34 938 41 03 03</p>
-        <p>💬 WhatsApp: +34 646 65 21 89</p>
+    </section>
+
+    <section class="section" id="tarjeta">
+      <div class="section-heading">
+        <p class="eyebrow">Tarjeta cliente</p>
+        <h2>Descubre las ventajas especiales que puedes conseguir con nuestra tarjeta cliente</h2>
       </div>
-      <div>
-        <p>© <span id="currentYear"></span> Farmàcia de l'Església</p>
+
+      <div class="benefits">
+        <span>Promociones y descuentos</span>
+        <span>Ofertas exclusivas</span>
+        <span>Atención prioritaria</span>
+        <span>Recomendaciones a medida</span>
       </div>
-    </footer>
-  </body>
+    </section>
+
+    <section class="section section--alt" id="encargos">
+      <div class="section-heading">
+        <p class="eyebrow">Encargos Online</p>
+        <h2>Te ofrecemos el servicio de pedido exprés</h2>
+      </div>
+
+      <div class="enquiry-box">
+        <p>Este servicio pretende facilitar, en la medida de lo posible, la compra de tus productos y ahorrarte tiempo a
+          la hora de realizarlos y de recogerlos.</p>
+        <a class="button button--primary" href="https://api.whatsapp.com/send?phone=34646652189" target="_blank"
+          rel="noreferrer">Realiza tu encargo</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="contactar">
+    <div>
+      <h3>Farmàcia de l'Església</h3>
+      <p>C/ Església 2, 08450 Llinars del Vallès, Barcelona</p>
+    </div>
+    <div>
+      <p>📞 +34 938 41 03 03</p>
+      <p>💬 WhatsApp: +34 646 65 21 89</p>
+    </div>
+    <div>
+      <p>© <span id="currentYear"></span> Farmàcia de l'Església</p>
+    </div>
+  </footer>
+</body>
+
 </html>
-

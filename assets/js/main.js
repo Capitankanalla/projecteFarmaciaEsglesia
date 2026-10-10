@@ -18,4 +18,19 @@ if (menuToggle && mainNav) {
       menuToggle.setAttribute('aria-expanded', 'false');
     });
   });
+  function updateStoreStatus() {
+    const storeStatus = document.getElementById('storeStatus');
+
+    if (!storeStatus) return;
+
+    const currentHour = new Date().getHours();
+    const isOpen = currentHour >= 8 && currentHour < 22;
+
+    storeStatus.textContent = isOpen ? 'Abierto' : 'Cerrado';
+
+    storeStatus.classList.toggle('badge--open', isOpen);
+    storeStatus.classList.toggle('badge--closed', !isOpen);
+  }
+
+  updateStoreStatus();
 }

@@ -144,20 +144,20 @@ main {
   position: relative;
   isolation: isolate;
   overflow: hidden;
-  width: 100vw; max-width: 100vw; margin-left:
-  calc(-50vw + 50%);
+  width: 100vw;
+  max-width: 100vw;
+  margin-left:
+    calc(-50vw + 50%);
   box-sizing: border-box;
   min-height: 65vh;
   padding: clamp(3rem, 6vw, 5rem);
   border-radius: 0;
   background-color: var(--primary-dark);
   background:
-    linear-gradient(
-      90deg,
+    linear-gradient(90deg,
       rgba(12, 36, 28, 0.55) 0%,
       rgba(12, 36, 28, 0.30) 55%,
-      rgba(12, 36, 28, 0.08) 100%
-    ) center / cover no-repeat,
+      rgba(12, 36, 28, 0.08) 100%) center / cover no-repeat,
     url("../imgs/farmaciaEsglesia.webp") center / cover no-repeat;
   color: #fff;
 }
@@ -246,6 +246,16 @@ main {
   font-size: 0.75rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.badge--open {
+  background-color: #198754;
+  color: #fff;
+}
+  
+.badge--closed {
+  background-color: #dc3545;
+  color: #fff;
 }
 
 .panel-card h2 {
