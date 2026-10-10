@@ -325,6 +325,21 @@ main {
   margin-bottom: 1rem;
 }
 
+.card {
+  cursor: pointer;
+  transition: transform 0.25s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    transition: none;
+  }
+}
+
 
 .two-column {
   display: grid;
