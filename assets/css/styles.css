@@ -334,6 +334,14 @@ main {
   transform: scale(1.03);
 }
 
+.whatsapp-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    flex-shrink: 0;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .card {
     transition: none;
