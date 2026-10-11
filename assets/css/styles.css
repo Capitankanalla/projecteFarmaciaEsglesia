@@ -398,25 +398,6 @@ main {
   max-width: 60ch;
 }
 
-.site-footer {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 2rem 1.25rem 3rem;
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1rem;
-  border-top: 1px solid var(--border);
-}
-
-.site-footer h3 {
-  margin-top: 0;
-}
-
-.site-footer p {
-  margin: 0.25rem 0;
-  color: var(--muted);
-}
-
 @media (max-width: 780px) {
   .menu-toggle {
     display: block;
@@ -443,8 +424,7 @@ main {
 
   .hero,
   .two-column,
-  .cards,
-  .site-footer {
+  .cards {
     grid-template-columns: 1fr;
   }
 
