@@ -175,6 +175,9 @@ main {
 .hero--image .lead {
   color: rgba(255, 255, 255, 0.92);
 }
+.phone-icon {
+  filter: grayscale(1) brightness(0) invert(1);
+}
 
 .hero--image .button--secondary {
   border-color: #fff;
