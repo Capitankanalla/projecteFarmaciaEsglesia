@@ -1,4 +1,11 @@
-# projecteFarmaciaEsglesia
+# projecteFarmaciaEsglesia Demo
+
+⚠️ Aquest projecte és **només una demo** per mostrar
+ el disseny i les funcionalitats principals.
+ Tots els drets reservats fins al lliurament al client.
+
+ Si t'interessa un projecte similar o t'agrada el que estàs veient,
+ contacta'm per privat o a: [nanoxtechnologies@gmail.com]   
 
 # 🏥 Pharmacy Web Refactor — MVP
 
